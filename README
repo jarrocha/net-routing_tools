@@ -1,5 +1,5 @@
 
-### Automating Quagga with QEMU-KVM
+# Automating Quagga with QEMU-KVM
 --------------------------------------------
 
 The goal of this post is to show how you can download your own CentOS 7 iso,
