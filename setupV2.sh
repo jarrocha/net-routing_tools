@@ -3,13 +3,10 @@
 BRCTL=brctl
 IP=ip
 KVM=kvm
-
-SCREEN=routing
 BRIDGES="brdg1 brdg2"
 INTF="r1-eth0 r1-eth1 r1-eth2 r2-eth0 r2-eth1 r2-eth2 r3-eth0 r3-eth1 r3-eth2"
 KVM_OPTS="-m 1024"
 
-#-vnc :0 \
 do_setup()
 {
 	# Create KVM device 
