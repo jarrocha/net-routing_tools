@@ -8,4 +8,6 @@ multiple virtual routers with QEMU-KVM.
 This version is currently very on a basic stage for automation. Further work
 will be done with it.
 
-All information is at http://blog/automating-quagga-with-qemu-kvm-part-1/
+All information is at [http://blog/automating-quagga-with-qemu-kvm-part-1/][1]
+
+[1]: http://blog/automating-quagga-with-qemu-kvm-part-1/
